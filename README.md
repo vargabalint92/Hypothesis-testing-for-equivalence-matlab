@@ -1,4 +1,4 @@
-# Hypothesis-testing-for-equivalence-matlab
+# Hypothesis testing for equivalence with matlab
 Matlab implementation of equivalence tests
 
 In the literature, there are several works and researchers, who use statistical equivalence and non-inferior tests in a wrong way, see:
